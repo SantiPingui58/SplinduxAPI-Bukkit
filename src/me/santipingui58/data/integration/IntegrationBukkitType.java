@@ -1,0 +1,17 @@
+package me.santipingui58.data.integration;
+
+public enum IntegrationBukkitType {
+	
+	START_GAME,
+	OPEN_DUEL_MENU,
+	LOAD_ARENA,
+	SPLEEF_DUEL_CREATED,
+	ACCEPT_DUEL,
+	DENY_DUEL,
+	OPEN_DUEL_ACCEPT_MENU,
+	SPECTATE,
+	CANCEL_DUEL,
+	DISCORD_BROADCAST,
+	DISCORD_MESSAGE,
+	TITLE,
+}

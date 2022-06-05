@@ -1,0 +1,16 @@
+package me.santipingui58.data.integration;
+
+public enum IntegrationBungeeType {
+	MOVE_PLAYER,
+	SEND_MESSAGE,
+	CREATE_GAME,
+	LOAD_DATA,
+	LOAD_FRIENDS,
+	SAVE_DATA,
+	SAVE_FRIENDS,
+	SEND_TO_LOBBY,
+	BROADCAST,
+	BROADCAST_COMPONENT,
+	DELETE_FRIENDS,
+}
+
